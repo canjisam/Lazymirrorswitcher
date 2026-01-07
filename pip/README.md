@@ -34,3 +34,13 @@ index-url = https://pypi.tuna.tsinghua.edu.cn/simple/
 - 修改配置后，新的镜像源会立即生效
 - `trusted-host` 字段列出了所有可能使用的镜像源域名，以避免SSL验证问题
 - 可以使用 `pip config list` 命令验证当前使用的镜像源
+
+---
+
+## 项目地址
+
+GitHub: https://github.com/canjisam/Lazymirrorswitcher
+
+Gitee: https://gitee.com/yin-sanmu/Lazymirrorswitcher
+
+如果这个项目对您有帮助，请给一个Star ⭐，谢谢支持！

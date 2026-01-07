@@ -21,3 +21,13 @@
 
 - 修改配置后需要重启 Docker Desktop 才能生效
 - 配置文件中的所有镜像源都会被使用，Docker 会自动选择响应最快的源
+
+---
+
+## 项目地址
+
+GitHub: https://github.com/canjisam/Lazymirrorswitcher
+
+Gitee: https://gitee.com/yin-sanmu/Lazymirrorswitcher
+
+如果这个项目对您有帮助，请给一个Star ⭐，谢谢支持！

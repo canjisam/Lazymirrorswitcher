@@ -3,14 +3,16 @@ chcp 65001 > nul
 REM ========================================
 REM  一键更改Docker镜像源启动器
 REM  GitHub: https://github.com/canjisam/Lazymirrorswitcher
-REM  如果对您有帮助，请给一个Star ⭐ 谢谢支持！
+REM  Gitee: https://gitee.com/yin-sanmu/Lazymirrorswitcher
+REM  如果对你有帮助，请给个 Star ⭐，你的每一次支持都是我持续更新的最大动力！
 REM ========================================
 echo ========================================
 echo  一键更改Docker镜像源启动器
 echo ========================================
 echo.
 echo GitHub项目地址: https://github.com/canjisam/Lazymirrorswitcher
-echo 如果对您有帮助，请给一个Star ⭐ 谢谢支持！
+echo Gitee项目地址: https://gitee.com/yin-sanmu/Lazymirrorswitcher
+echo 如果对你有帮助，请给个 Star ⭐，你的每一次支持都是我持续更新的最大动力！
 echo.
 
 REM 检查setting.bat是否存在

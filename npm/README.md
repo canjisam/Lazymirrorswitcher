@@ -32,3 +32,13 @@ registry=https://registry.npm.taobao.org/
 
 - 修改配置后，新的镜像源会立即生效
 - 可以使用 `npm config get registry` 命令验证当前使用的镜像源
+
+---
+
+## 项目地址
+
+GitHub: https://github.com/canjisam/Lazymirrorswitcher
+
+Gitee: https://gitee.com/yin-sanmu/Lazymirrorswitcher
+
+如果这个项目对您有帮助，请给一个Star ⭐，谢谢支持！

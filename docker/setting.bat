@@ -1,8 +1,18 @@
 @echo off
 chcp 65001 > nul
+REM ========================================
+REM  Docker镜像源设置脚本
+REM  GitHub: https://github.com/canjisam/Lazymirrorswitcher
+REM  Gitee: https://gitee.com/yin-sanmu/Lazymirrorswitcher
+REM  如果对你有帮助，请给个 Star ⭐，你的每一次支持都是我持续更新的最大动力！
+REM ========================================
 echo ========================================
 echo  Docker镜像源设置脚本
 echo ========================================
+echo.
+echo GitHub: https://github.com/canjisam/Lazymirrorswitcher
+echo Gitee: https://gitee.com/yin-sanmu/Lazymirrorswitcher
+echo 如果对你有帮助，请给个 Star ⭐，你的每一次支持都是我持续更新的最大动力！
 echo.
 
 REM 检查daemon.json是否存在
