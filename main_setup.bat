@@ -9,6 +9,9 @@ echo ========================================
 echo      一键更改镜像源工具集
 echo ========================================
 echo.
+echo GitHub项目地址: https://github.com/canjisam/Lazymirrorswitcher
+echo 如果对您有帮助，请给一个Star ⭐ 谢谢支持！
+echo.
 echo 请选择要配置的镜像源：
 echo.
 echo 1. Python (pip)

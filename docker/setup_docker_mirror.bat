@@ -9,6 +9,9 @@ echo ========================================
 echo  一键更改Docker镜像源启动器
 echo ========================================
 echo.
+echo GitHub项目地址: https://github.com/canjisam/Lazymirrorswitcher
+echo 如果对您有帮助，请给一个Star ⭐ 谢谢支持！
+echo.
 
 REM 检查setting.bat是否存在
 echo 正在启动配置程序...
