@@ -105,6 +105,6 @@ A: 请确保Docker Desktop已完全重启，新配置才会生效。
 ## GitHub项目地址
 
 GitHub: https://github.com/canjisam/Lazymirrorswitcher
-
+Gitee: https://gitee.com/yin-sanmu/Lazymirrorswitcher
 如果您觉得这个项目有用，请给一个Star ⭐，谢谢支持！
 
